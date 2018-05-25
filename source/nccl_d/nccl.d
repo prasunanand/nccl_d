@@ -291,7 +291,3 @@ ncclResult_t ncclGroupStart ();
 * before returning.
 */
 ncclResult_t ncclGroupEnd ();
-
-// end extern "C"
-
-// end include guard

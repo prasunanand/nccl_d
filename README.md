@@ -1,6 +1,5 @@
 # nccl_d
-D bindings for NVIDIA Collective Communications Library (NCCL)
-
+D bindings for NVIDIA Collective Communications Library ([NCCL](https://developer.nvidia.com/nccl)).
 
 # Usage
 
